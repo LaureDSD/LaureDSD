@@ -54,7 +54,7 @@
 ## 🌟 Proyecto Destacado
 
 ### 📌 Proyecto Gesthor
-> Uno de mis proyectos favoritos y donde más he aprendido. ¡No dudes en echarle un vistazo!
+> Uno de mis proyectos favoritos y donde más he aprendido. [¡No dudes en echarle un vistazo!](https://github.com/LaureDSD/ProyectoGestorGastos)
 
 ---
 
